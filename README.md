@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Doni Wijaya 陳 (ドニ・ウィジャヤ)
 
-I'm a full-stack web developer working with React + TypeScript on the frontend and Python (FastAPI) on the backend, usually deployed on AWS and Docker.  
+I'm a full-stack web developer working with React + TypeScript on the frontend and Python (FastAPI) on the backend, usually deployed with AWS and Docker.  
 I enjoy building SaaS products and internal tools that solve real problems and actually get used in day-to-day workflows.  
-ドニ・ウィジャヤ（陳）です。React＋TypeScript を用いたフロントエンドと Python（FastAPI）によるバックエンドを中心に、AWS と Docker を活用したフルスタック Web 開発に取り組んでいます。
+ドニ・ウィジャヤ（陳）です。React＋TypeScript を用いたフロントエンドと Python（FastAPI）によるバックエンド開発を中心に、AWS と Docker を活用したフルスタック Web 開発に取り組んでいます。
 
 ---
 
@@ -27,9 +27,10 @@ I enjoy building SaaS products and internal tools that solve real problems and a
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+> "Attitude is a little thing that makes a big difference."  
+> — Winston Churchill
 
 ---
 
