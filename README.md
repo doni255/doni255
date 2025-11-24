@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Doni Wijaya 陳
+# 👋 Hi, I'm Doni Wijaya 陳 (ドニ・ウィジャヤ)
 
 I'm a full-stack web developer working with React + TypeScript on the frontend and Python (FastAPI) on the backend, usually deployed on AWS and Docker.  
-I enjoy building SaaS products and internal tools that solve real problems and actually get used in day-to-day workflows.
+I enjoy building SaaS products and internal tools that solve real problems and actually get used in day-to-day workflows.  
+フルスタックWebエンジニアとして、React＋TypeScript と Python（FastAPI）、AWS・Docker を中心に開発しています。
 
 ---
 
