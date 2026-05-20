@@ -12,7 +12,6 @@ I enjoy building SaaS products and internal tools that solve real problems and a
 - X (Twitter): [Twitter](https://x.com/donichin999)  
 - LinkedIn: [LinkedIn](https://linkedin.com/in/donichin9)  
 - Instagram: [Instagram](https://www.instagram.com/donii_wijaya9/)  
-- Facebook: [Facebook](https://www.facebook.com/doniwijayachin/)
 
 ---
 
